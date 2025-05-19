@@ -1,0 +1,246 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maria\\Desktop\\ip-proiect\\VetLife\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{646B1622-A967-4CF7-AEA4-B503F1E3784C}|VetLife\\VetLifeApp.csproj|c:\\users\\maria\\desktop\\ip-proiect\\vetlife\\vetlife\\vetlifeapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{646B1622-A967-4CF7-AEA4-B503F1E3784C}|VetLife\\VetLifeApp.csproj|solutionrelative:vetlife\\vetlifeapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{646B1622-A967-4CF7-AEA4-B503F1E3784C}|VetLife\\VetLifeApp.csproj|C:\\Users\\maria\\Desktop\\ip-proiect\\VetLife\\vetlife\\vetlifeapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{646B1622-A967-4CF7-AEA4-B503F1E3784C}|VetLife\\VetLifeApp.csproj|solutionrelative:vetlife\\vetlifeapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{646B1622-A967-4CF7-AEA4-B503F1E3784C}|VetLife\\VetLifeApp.csproj|C:\\Users\\maria\\Desktop\\ip-proiect\\VetLife\\vetlife\\vetlifeapp.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{646B1622-A967-4CF7-AEA4-B503F1E3784C}|VetLife\\VetLifeApp.csproj|solutionrelative:vetlife\\vetlifeapp.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43F1DCE2-A0E9-4D01-8DED-B73BCCE00F4A}|VetLife.DataAccess\\VetLife.DataAccess.csproj|C:\\Users\\maria\\Desktop\\ip-proiect\\VetLife\\vetlife.dataaccess\\animalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43F1DCE2-A0E9-4D01-8DED-B73BCCE00F4A}|VetLife.DataAccess\\VetLife.DataAccess.csproj|solutionrelative:vetlife.dataaccess\\animalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C7FE392-73EF-4A15-B1DB-89CA33642952}|VetLife.Core\\VetLife.Core.csproj|C:\\Users\\maria\\Desktop\\ip-proiect\\VetLife\\vetlife.core\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C7FE392-73EF-4A15-B1DB-89CA33642952}|VetLife.Core\\VetLife.Core.csproj|solutionrelative:vetlife.core\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43F1DCE2-A0E9-4D01-8DED-B73BCCE00F4A}|VetLife.DataAccess\\VetLife.DataAccess.csproj|C:\\Users\\maria\\Desktop\\ip-proiect\\VetLife\\vetlife.dataaccess\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43F1DCE2-A0E9-4D01-8DED-B73BCCE00F4A}|VetLife.DataAccess\\VetLife.DataAccess.csproj|solutionrelative:vetlife.dataaccess\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\maria\\Downloads\\VetLifeApp_Curatat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{646B1622-A967-4CF7-AEA4-B503F1E3784C}|VetLife\\VetLife.csproj|C:\\Users\\maria\\Desktop\\ip-proiect\\VetLife\\vetlife\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{646B1622-A967-4CF7-AEA4-B503F1E3784C}|VetLife\\VetLife.csproj|solutionrelative:vetlife\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C7FE392-73EF-4A15-B1DB-89CA33642952}|VetLife.Core\\VetLife.Core.csproj|C:\\Users\\maria\\Desktop\\ip-proiect\\VetLife\\vetlife.core\\utilizator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C7FE392-73EF-4A15-B1DB-89CA33642952}|VetLife.Core\\VetLife.Core.csproj|solutionrelative:vetlife.core\\utilizator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43F1DCE2-A0E9-4D01-8DED-B73BCCE00F4A}|VetLife.DataAccess\\VetLife.DataAccess.csproj|C:\\Users\\maria\\Desktop\\ip-proiect\\VetLife\\vetlife.dataaccess\\proprietarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43F1DCE2-A0E9-4D01-8DED-B73BCCE00F4A}|VetLife.DataAccess\\VetLife.DataAccess.csproj|solutionrelative:vetlife.dataaccess\\proprietarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43F1DCE2-A0E9-4D01-8DED-B73BCCE00F4A}|VetLife.DataAccess\\VetLife.DataAccess.csproj|C:\\Users\\maria\\Desktop\\ip-proiect\\VetLife\\vetlife.dataaccess\\consultatierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43F1DCE2-A0E9-4D01-8DED-B73BCCE00F4A}|VetLife.DataAccess\\VetLife.DataAccess.csproj|solutionrelative:vetlife.dataaccess\\consultatierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C7FE392-73EF-4A15-B1DB-89CA33642952}|VetLife.Core\\VetLife.Core.csproj|C:\\Users\\maria\\Desktop\\ip-proiect\\VetLife\\vetlife.core\\consultatie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C7FE392-73EF-4A15-B1DB-89CA33642952}|VetLife.Core\\VetLife.Core.csproj|solutionrelative:vetlife.core\\consultatie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C7FE392-73EF-4A15-B1DB-89CA33642952}|VetLife.Core\\VetLife.Core.csproj|C:\\Users\\maria\\Desktop\\ip-proiect\\VetLife\\vetlife.core\\proprietar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C7FE392-73EF-4A15-B1DB-89CA33642952}|VetLife.Core\\VetLife.Core.csproj|solutionrelative:vetlife.core\\proprietar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43F1DCE2-A0E9-4D01-8DED-B73BCCE00F4A}|VetLife.DataAccess\\VetLife.DataAccess.csproj|C:\\Users\\maria\\Desktop\\ip-proiect\\VetLife\\vetlife.dataaccess\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43F1DCE2-A0E9-4D01-8DED-B73BCCE00F4A}|VetLife.DataAccess\\VetLife.DataAccess.csproj|solutionrelative:vetlife.dataaccess\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DatabaseHelper.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\Desktop\\ip-proiect\\VetLife\\VetLife.DataAccess\\DatabaseHelper.cs",
+              "RelativeDocumentMoniker": "VetLife.DataAccess\\DatabaseHelper.cs",
+              "ToolTip": "C:\\Users\\maria\\Desktop\\ip-proiect\\VetLife\\VetLife.DataAccess\\DatabaseHelper.cs",
+              "RelativeToolTip": "VetLife.DataAccess\\DatabaseHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenGroupName": "VetLife.DataAccess",
+              "WhenOpened": "2025-05-19T19:00:38.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VetLifeApp.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\maria\\Desktop\\ip-proiect\\VetLife\\VetLife\\VetLifeApp.cs",
+              "RelativeDocumentMoniker": "VetLife\\VetLifeApp.cs",
+              "ToolTip": "VetLife/VetLifeApp.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenGroupName": "VetLife",
+              "OverriddenToolTip": "VetLife/VetLifeApp.cs",
+              "WhenOpened": "2025-05-19T17:59:41.318Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AnimalRepository.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\Desktop\\ip-proiect\\VetLife\\VetLife.DataAccess\\AnimalRepository.cs",
+              "RelativeDocumentMoniker": "VetLife.DataAccess\\AnimalRepository.cs",
+              "ToolTip": "C:\\Users\\maria\\Desktop\\ip-proiect\\VetLife\\VetLife.DataAccess\\AnimalRepository.cs",
+              "RelativeToolTip": "VetLife.DataAccess\\AnimalRepository.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAcwDkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T20:23:40.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VetLifeApp.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\Desktop\\ip-proiect\\VetLife\\VetLife\\VetLifeApp.cs",
+              "RelativeDocumentMoniker": "VetLife\\VetLifeApp.cs",
+              "ToolTip": "C:\\Users\\maria\\Desktop\\ip-proiect\\VetLife\\VetLife\\VetLifeApp.cs",
+              "RelativeToolTip": "VetLife\\VetLifeApp.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAgwEQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T19:50:36.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\Desktop\\ip-proiect\\VetLife\\VetLife.Core\\Animal.cs",
+              "RelativeDocumentMoniker": "VetLife.Core\\Animal.cs",
+              "ToolTip": "C:\\Users\\maria\\Desktop\\ip-proiect\\VetLife\\VetLife.Core\\Animal.cs",
+              "RelativeToolTip": "VetLife.Core\\Animal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T20:20:23.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\Desktop\\ip-proiect\\VetLife\\VetLife\\Program.cs",
+              "RelativeDocumentMoniker": "VetLife\\Program.cs",
+              "ToolTip": "C:\\Users\\maria\\Desktop\\ip-proiect\\VetLife\\VetLife\\Program.cs",
+              "RelativeToolTip": "VetLife\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenGroupName": "VetLife",
+              "WhenOpened": "2025-05-19T18:47:58.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VetLifeApp.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\Desktop\\ip-proiect\\VetLife\\VetLife\\VetLifeApp.Designer.cs",
+              "RelativeDocumentMoniker": "VetLife\\VetLifeApp.Designer.cs",
+              "ToolTip": "C:\\Users\\maria\\Desktop\\ip-proiect\\VetLife\\VetLife\\VetLifeApp.Designer.cs",
+              "RelativeToolTip": "VetLife\\VetLifeApp.Designer.cs",
+              "ViewState": "AQIAABYBAAAAAAAAAAAowCABAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T19:59:34.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProprietarRepository.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\Desktop\\ip-proiect\\VetLife\\VetLife.DataAccess\\ProprietarRepository.cs",
+              "RelativeDocumentMoniker": "VetLife.DataAccess\\ProprietarRepository.cs",
+              "ToolTip": "C:\\Users\\maria\\Desktop\\ip-proiect\\VetLife\\VetLife.DataAccess\\ProprietarRepository.cs",
+              "RelativeToolTip": "VetLife.DataAccess\\ProprietarRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAowCgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T19:28:50.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VetLifeApp_Curatat.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\Downloads\\VetLifeApp_Curatat.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\VetLifeApp_Curatat.cs",
+              "ToolTip": "C:\\Users\\maria\\Downloads\\VetLifeApp_Curatat.cs",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\VetLifeApp_Curatat.cs",
+              "ViewState": "AQIAAJsAAAAAAAAAAAAowLsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T21:59:04.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Utilizator.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\Desktop\\ip-proiect\\VetLife\\VetLife.Core\\Utilizator.cs",
+              "RelativeDocumentMoniker": "VetLife.Core\\Utilizator.cs",
+              "ToolTip": "C:\\Users\\maria\\Desktop\\ip-proiect\\VetLife\\VetLife.Core\\Utilizator.cs",
+              "RelativeToolTip": "VetLife.Core\\Utilizator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T20:54:20.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Consultatie.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\Desktop\\ip-proiect\\VetLife\\VetLife.Core\\Consultatie.cs",
+              "RelativeDocumentMoniker": "VetLife.Core\\Consultatie.cs",
+              "ToolTip": "C:\\Users\\maria\\Desktop\\ip-proiect\\VetLife\\VetLife.Core\\Consultatie.cs",
+              "RelativeToolTip": "VetLife.Core\\Consultatie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T20:27:36.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ConsultatieRepository.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\Desktop\\ip-proiect\\VetLife\\VetLife.DataAccess\\ConsultatieRepository.cs",
+              "RelativeDocumentMoniker": "VetLife.DataAccess\\ConsultatieRepository.cs",
+              "ToolTip": "C:\\Users\\maria\\Desktop\\ip-proiect\\VetLife\\VetLife.DataAccess\\ConsultatieRepository.cs",
+              "RelativeToolTip": "VetLife.DataAccess\\ConsultatieRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T20:30:30.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Proprietar.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\Desktop\\ip-proiect\\VetLife\\VetLife.Core\\Proprietar.cs",
+              "RelativeDocumentMoniker": "VetLife.Core\\Proprietar.cs",
+              "ToolTip": "C:\\Users\\maria\\Desktop\\ip-proiect\\VetLife\\VetLife.Core\\Proprietar.cs",
+              "RelativeToolTip": "VetLife.Core\\Proprietar.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T19:28:13.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\Desktop\\ip-proiect\\VetLife\\VetLife.DataAccess\\Class1.cs",
+              "RelativeDocumentMoniker": "VetLife.DataAccess\\Class1.cs",
+              "ToolTip": "C:\\Users\\maria\\Desktop\\ip-proiect\\VetLife\\VetLife.DataAccess\\Class1.cs",
+              "RelativeToolTip": "VetLife.DataAccess\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T18:55:54.609Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

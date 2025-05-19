@@ -1,0 +1,9 @@
+C:\Users\maria\Desktop\ip-proiect\VetLife\VetLife.Core\bin\Debug\VetLife.Core.dll
+C:\Users\maria\Desktop\ip-proiect\VetLife\VetLife.Core\bin\Debug\VetLife.Core.pdb
+C:\Users\maria\Desktop\ip-proiect\VetLife\VetLife.Core\bin\Debug\System.Data.SQLite.dll
+C:\Users\maria\Desktop\ip-proiect\VetLife\VetLife.Core\bin\Debug\System.Data.SQLite.xml
+C:\Users\maria\Desktop\ip-proiect\VetLife\VetLife.Core\obj\Debug\VetLife.Core.csproj.AssemblyReference.cache
+C:\Users\maria\Desktop\ip-proiect\VetLife\VetLife.Core\obj\Debug\VetLife.Core.csproj.CoreCompileInputs.cache
+C:\Users\maria\Desktop\ip-proiect\VetLife\VetLife.Core\obj\Debug\VetLife..C6372606.Up2Date
+C:\Users\maria\Desktop\ip-proiect\VetLife\VetLife.Core\obj\Debug\VetLife.Core.dll
+C:\Users\maria\Desktop\ip-proiect\VetLife\VetLife.Core\obj\Debug\VetLife.Core.pdb
